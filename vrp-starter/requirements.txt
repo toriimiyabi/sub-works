@@ -1,3 +1,5 @@
-typer==0.12.3
+﻿typer==0.9.0
+click==8.1.7
+rich==13.7.1
 pandas==2.2.2
 PyYAML==6.0.2

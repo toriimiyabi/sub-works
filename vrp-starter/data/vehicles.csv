@@ -1,0 +1,4 @@
+vehicle_id,start_lat,start_lon,end_lat,end_lon,capacity,shift_start,shift_end,max_distance_km
+V01,35.68,139.76,35.68,139.76,30,540,1080,300
+V02,35.68,139.76,35.68,139.76,35,540,1080,300
+V03,35.68,139.76,35.68,139.76,30,540,1080,300

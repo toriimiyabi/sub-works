@@ -1,3 +1,9 @@
-solver:
+﻿solver:
   time_limit_min: 5
-  objective: distance
+  objective: distance   # distance | time
+  geodesic: true        # 直線距離で見積もる（Day2は簡易）
+  speed_kmph: 40
+data:
+  dir: data
+output:
+  dir: outputs
